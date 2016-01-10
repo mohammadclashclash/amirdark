@@ -364,7 +364,7 @@ function create_config( )
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-   👿 TeleDark By @AmirDark 👿
+   �TELE MOHAMMA  @mohammad20162015�👿
    
 ]]
 
