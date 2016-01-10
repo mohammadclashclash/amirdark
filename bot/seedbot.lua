@@ -229,9 +229,9 @@ function create_config( )
     "version",
     "all"
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {150575718,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {90312082},--Realms Id
+    realm = {150575718},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     
