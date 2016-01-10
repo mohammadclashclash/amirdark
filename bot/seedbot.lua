@@ -233,15 +233,7 @@ function create_config( )
     disabled_channels = {},
     realm = {150575718},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[
-    
-    TeleDark Anti Spam Bot v2 
-  📢 Channel : @TeleDarkCh
-  👤 Admin : @AmirDark
-  🙏 Special Thanks :
-  @mehrab_wj
-  @PokerFace_Dev
-  
+    about_text = [[مابهترینیم این طبیعت ماست
   Checkout goo.gl/wQ6sGr
 ]],
     help_text = [[
